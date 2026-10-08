@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="420" viewBox="0 0 1100 420">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#070b16"/>
+    <stop offset="0.65" stop-color="#0c1427"/>
+    <stop offset="1" stop-color="#111b33"/>
+  </linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#247bff"/>
+    <stop offset="1" stop-color="#ff354f"/>
+  </linearGradient>
+</defs>
+<rect width="1100" height="420" rx="28" fill="url(#g)"/>
+<rect x="1" y="1" width="1098" height="418" rx="28" fill="none" stroke="url(#line)" stroke-width="2"/>
+
+<text x="60" y="70" fill="#247bff" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700">HELLO, I'M</text>
+<text x="60" y="145" fill="#f5f7fb" font-family="Arial,Helvetica,sans-serif" font-size="64" font-weight="800">DIVY VERMA</text>
+<text x="60" y="190" fill="#ff354f" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700">BCA STUDENT • DEVELOPER</text>
+<text x="60" y="245" fill="#cbd5e1" font-family="Arial,Helvetica,sans-serif" font-size="19">Building projects, learning every day, and turning ideas into code.</text>
+<text x="60" y="286" fill="#94a3b8" font-family="Arial,Helvetica,sans-serif" font-size="17">C • C++ • Python • HTML • CSS</text>
+<rect x="60" y="325" width="250" height="5" rx="2.5" fill="url(#line)"/>
+<text x="60" y="365" fill="#64748b" font-family="monospace" font-size="14">@devanshverma7499-eng</text>
+<text x="865" y="75" fill="#64748b" font-family="monospace" font-size="13">PROFILE // 2026</text>
+
+</svg>
